@@ -1,5 +1,5 @@
+<!-- SNACK 1 -->
 <?php
-// Snack 1:
 // Creiamo un array 'matches' contenente altri array i quali rappresentano delle
 // partite di basket di un’ipotetica tappa del calendario. Ogni array della partita
 // avrà una squadra di casa e una squadra ospite, punti fatti dalla squadra di casa
@@ -49,8 +49,8 @@ $array_matches = [
   </body>
 </html>
 
+<!-- SNACK 2 -->
 <?php
-// Snack 2:
 // Passare come parametri GET name, mail e age e verificare (cercando i metodi che
 // non conosciamo nella documentazione) che:
 // 1. name sia più lungo di 3 caratteri,
